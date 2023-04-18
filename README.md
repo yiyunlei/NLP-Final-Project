@@ -4,6 +4,9 @@ Reminder:
 
 - **Project_docs directory needs to be deleted when this repo becomes public.**
 
+Chinese NLP Resourses:
+- [结巴中文分词](https://github.com/fxsjy/jieba)
+
 Links:
 
 - [Project Proposal](https://docs.google.com/document/d/1PnuveHxljuH2OfjHf2oSuKAbgnQdw0kBgYtKXEAYwPY/edit)

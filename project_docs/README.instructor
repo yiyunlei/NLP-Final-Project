@@ -1,0 +1,5 @@
+
+Resources for this project included the LIWC 2007 lexicon, used with permission directly from Jamie Pennebaker at UT.
+
+If you wish to use that resource, you'll need to request it directly from Pennebaker, in which case it would make more sense to request the most up-to-date lexicon. Alternatively, and probably simpler, you could instead modify things to use Stanford's Empath, which is similar to LIWC in spirit (although not psychometrically validated) and actually has quite a few more categories.  In any case, neither LIWC nor a LIWC-like resource is critical for this project.
+

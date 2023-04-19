@@ -5,6 +5,7 @@ Reminder:
 - **Project_docs directory needs to be deleted when this repo becomes public.**
 
 Chinese NLP Resourses:
+- [Chinese Tokenizer](https://github.com/yishn/chinese-tokenizer)
 - [结巴中文分词](https://github.com/fxsjy/jieba)
 
 Links:

@@ -1,4 +1,3 @@
-# basic code are from assignment2, improve and update by Yiyun Lei
 import os
 import sys
 from sklearn.linear_model import LogisticRegression

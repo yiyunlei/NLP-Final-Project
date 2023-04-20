@@ -83,12 +83,29 @@ for speaker in x_valid_combined:
             seg_list = jieba.cut(speaker[key][i], cut_all=False)
             speaker[key][i] = " ".join(seg_list)
 
+for speaker in X_train_combined:
+    for i in range(1, len(speaker[key])):
+        # combine all key's value to one value usse space to split
+        speaker[key][0] = speaker[key][0] + " " + speaker[key][i]
+
+
+
+for speaker in X_train_combined:
+    for key in speaker:
+        for i in range(1, len(speaker[key])):
+            # delete other key's value
+            del speaker[key][i]
+
+
+# dat clean : convert all punctuation or multi-sapce to one space
+for speaker in X_train_combined:
+    for key in speaker:
+        speaker[key][0] = re.sub(r'[^\w\s]','',speaker[key][0])
+        speaker[key][0] = re.sub(r'\s+',' ',speaker[key][0])
+
 
 
 # encoding=utf-8
-
-
-
 
 if __name__ == "__main__":
     main()

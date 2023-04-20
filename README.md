@@ -4,6 +4,12 @@ Chinese NLP Resourses:
 - [Chinese Tokenizer](https://github.com/yishn/chinese-tokenizer)
 - [结巴中文分词](https://github.com/fxsjy/jieba)
 
+Colab:
+ - https://colab.research.google.com/drive/1ECIhWUU75WMnlU4zvOqd7ZBX38YLyiDb
+ - https://colab.research.google.com/drive/1-c8bRYhJrCdOfsjHFKejXZ-9xACBoKPB?usp=sharing
+ 
+ 
+ 
 Links:
 
 - [Project Proposal](https://docs.google.com/document/d/1PnuveHxljuH2OfjHf2oSuKAbgnQdw0kBgYtKXEAYwPY/edit)

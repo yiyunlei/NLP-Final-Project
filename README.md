@@ -8,7 +8,7 @@ Colab:
  - https://colab.research.google.com/drive/1ECIhWUU75WMnlU4zvOqd7ZBX38YLyiDb
 
 Process Record:
-- https://docs.google.com/document/d/17XT2G8DSVR4LJTQY1fFFyi2Lr5j1ovjLuVg28VtWFgY/edit?usp=sharing
+- [Process Google Docs](https://docs.google.com/document/d/17XT2G8DSVR4LJTQY1fFFyi2Lr5j1ovjLuVg28VtWFgY/edit?usp=sharing)
 
 Links:
 

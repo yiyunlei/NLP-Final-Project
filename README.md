@@ -6,7 +6,6 @@ Chinese NLP Resourses:
 
 Colab:
  - https://colab.research.google.com/drive/1ECIhWUU75WMnlU4zvOqd7ZBX38YLyiDb
- - https://colab.research.google.com/drive/1-c8bRYhJrCdOfsjHFKejXZ-9xACBoKPB?usp=sharing
 
  
 

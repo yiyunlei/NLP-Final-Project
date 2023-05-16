@@ -5,9 +5,9 @@ Chinese NLP Resourses:
 - [结巴中文分词](https://github.com/fxsjy/jieba)
 
 Models:
- - Logistic Regression: https://github.com/yiyunlei/NLP-Final-Project/blob/main/baseline.ipynb
- - SVM: https://github.com/yiyunlei/NLP-Final-Project/blob/main/SVM.py
- - ANN, LSTM, GRU: https://github.com/yiyunlei/NLP-Final-Project/blob/main/Neural_Networks.ipynb
+ - [Logistic Regression](https://github.com/yiyunlei/NLP-Final-Project/blob/main/baseline.ipynb)
+ - [SVM](https://github.com/yiyunlei/NLP-Final-Project/blob/main/SVM.py)
+ - [ANN, LSTM, GRU](https://github.com/yiyunlei/NLP-Final-Project/blob/main/Neural_Networks.ipynb)
 
 Process Record:
 - [Process Google Docs](https://docs.google.com/document/d/17XT2G8DSVR4LJTQY1fFFyi2Lr5j1ovjLuVg28VtWFgY/edit?usp=sharing)
